@@ -6,7 +6,7 @@ all he/she needs to know. The comments should usually include at least:
 
 PROJECT TITLE: Corona Run Game
 PURPOSE OF PROJECT: Ap Comp Sci Final
-VERSION or DATE: 
+VERSION or DATE: 5/4/20
 HOW TO START THIS PROJECT:
 AUTHORS: Paige Keller
 USER INSTRUCTIONS: 
